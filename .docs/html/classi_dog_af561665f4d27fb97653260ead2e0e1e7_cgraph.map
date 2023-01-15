@@ -1,0 +1,6 @@
+<map id="iDog::iDog" name="iDog::iDog">
+<area shape="rect" id="node1" title="iDog object constructor." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node2" href="$classi_dog.html#a93bca600fa8db9ba07a2b3a43190093d" title="Set watchdog clock prescaler." alt="" coords="145,5,274,31"/>
+<area shape="rect" id="node4" href="$classi_dog.html#a4786c498012f38f64c4c9a37e81dd9e2" title="Set watchdog reload value." alt="" coords="136,55,283,80"/>
+<area shape="rect" id="node3" href="$classi_dog.html#a5e4df157988eaebf30908b109c196e9e" title="Feed(reload) watchdog." alt="" coords="331,31,412,56"/>
+</map>
